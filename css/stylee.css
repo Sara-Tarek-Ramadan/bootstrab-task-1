@@ -1,0 +1,59 @@
+h1 {
+  font-family: "Montagu Slab", serif;
+  font-family: "Road Rage", cursive;
+  font-family: "Roboto", sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.items:hover {
+  cursor: pointer;
+}
+.nav {
+  padding-top: 200px;
+}
+.float-end {
+  padding-right: 100px;
+  line-height: 30px;
+}
+.prag {
+  padding-top: 200px;
+}
+.imo i {
+  width: 100px;
+  font-size: 50px;
+  margin-left: 200px;
+}
+.imo h4 {
+  display: inline-block;
+  padding-top: 3px;
+}
+.one {
+  padding-left: 200px;
+}
+.two {
+  padding-left: 270px;
+}
+.three {
+  padding-left: 255px;
+}
+.four {
+  padding-left: 260px;
+}
+.imo p {
+  display: inline-block;
+}
+.one-p {
+  padding-left: 180px;
+}
+.two-p {
+  padding-left: 230px;
+}
+.three-p {
+  padding-left: 220px;
+}
+.four-p {
+  padding-left: 200px;
+}
+.span{
+    padding-top: 200px;
+}
